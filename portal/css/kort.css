@@ -1,0 +1,117 @@
+.thumb {
+	position: relative;
+	width: 334px;
+	height: 240px;
+	margin: 10px auto 0 auto;
+}
+
+.thumb .imgbox {
+	position: absolute;
+	top: 0;
+	left: 0;
+	cursor: pointer;
+	background: url('../images/f_img01.png') no-repeat;
+	width: 334px;
+	height: 240px;
+}
+.thumb .imgbox.no_bg{
+	background: none;
+}
+
+.thumb .imgbox.item img {
+	position: absolute;
+	top: 50px;
+	left: 60px;
+	transform: rotate(-5deg);
+	-ms-transform: rotate(-5deg);
+	/* IE 9 */
+	-moz-transform: rotate(-5deg);
+	/* Firefox */
+	-webkit-transform: rotate(-5deg);
+	/* Safari 和 Chrome */
+	-o-transform: rotate(-5deg);
+}
+
+.kort {
+	-webkit-perspective: 1200px;
+	-moz-perspective: 1200px;
+	-o-perspective: 1200px;
+	perspective: 1200px;
+	-webkit-perspective-origin: 50% 50%;
+	-moz-perspective-origin: 50% 50%;
+	-o-perspective-origin: 50% 50%;
+	perspective-origin: 50% 50%;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+}
+
+.kort .imgbox {
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+
+/* DEFAULT TRANSITION */
+
+.kort:hover .imgbox,
+.kort.touching .imgbox {
+	-webkit-transform: translateX( -60%) rotateY( 60deg) translateZ(-80px);
+	-moz-transform: translateX( -60%) rotateY( 60deg) translateZ(-80px);
+	-o-transform: translateX( -60%) rotateY( 60deg) translateZ(-80px);
+	transform: translateX( -60%) rotateY( 60deg) translateZ(-80px);
+}
+
+.kort:hover .imgbox.present~.imgbox,
+.kort.touching .imgbox.present~.imgbox {
+	-webkit-transform: translateX( 82%) rotateY( 50deg);
+	-moz-transform: translateX( 82%) rotateY( 50deg);
+	-o-transform: translateX( 82%) rotateY( 50deg);
+	transform: translateX( 82%) rotateY( 50deg);
+}
+
+
+/* CONCAVE TRANSITION */
+
+.kort.concave:hover .imgbox.present~.imgbox,
+.kort.concave.touching .imgbox.present~.imgbox {
+	-webkit-transform: translateX( 60%) rotateY( -60deg) translateZ(-80px);
+	;
+	-moz-transform: translateX( 60%) rotateY( -60deg) translateZ(-80px);
+	;
+	-o-transform: translateX( 60%) rotateY( -60deg) translateZ(-80px);
+	;
+	transform: translateX( 60%) rotateY( -60deg) translateZ(-80px);
+	;
+}
+
+
+/* STACK TRANSITION */
+
+.kort.stack:hover .imgbox,
+.kort.stack.touching .imgbox {
+	-webkit-transform: translateZ(-180px) rotateY( -60deg);
+	-moz-transform: translateZ(-180px) rotateY( -60deg);
+	-o-transform: translateZ(-180px) rotateY( -60deg);
+	transform: translateZ(-180px) rotateY( -60deg);
+}
+
+.kort.stack:hover .imgbox.present~.imgbox,
+.kort.stack.touching .imgbox.present~.imgbox {
+	-webkit-transform: translateX( 82%) rotateY( 50deg);
+	-moz-transform: translateX( 82%) rotateY( 50deg);
+	-o-transform: translateX( 82%) rotateY( 50deg);
+	transform: translateX( 82%) rotateY( 50deg);
+}
+
+.kort:hover .imgbox.present,
+.kort.touching .imgbox.present {
+	-webkit-transform: none;
+	-moz-transform: none;
+	-o-transform: none;
+	transform: none;
+	margin: 0!important;
+}
+
+​

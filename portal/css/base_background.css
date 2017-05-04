@@ -1,0 +1,76 @@
+/* CSS Document */
+/*css reset*/
+*{margin:0; padding:0;}
+body{ background:#fff; font-family:"微软雅黑"; font-size:12px; color:#030303;}
+ul{ list-style:none;}
+a{ text-decoration:none; color:#030303;}
+img{ border:none;}
+
+.left{ float:left;}
+.right{ float:right;}
+.wapper{ width:1160px; margin:0 auto;}
+.clearfix:after{ content:"."; display:block; clear:both; height:0; overflow:hidden;}
+.clearfix{ zoom:1;}
+
+.FontColor{ color:#eecd67;}
+.FontSize14{ font-size:14px;}
+.FontSize18{ font-size:18px;}
+.FontSize24{ font-size:24px;}
+.FontFamily{ font-family:"微软雅黑"}
+.a1,.HoverYellow:hover{ color:#eecd67;}
+.a2{ color:#000;}
+.MarginBot25{ margin-bottom:25px;}
+.auto{margin:0 auto;}
+.rel{position: relative;}
+.abs{position: absolute;}
+.blue{color: #4c9ff8;}
+.logo img{margin-top: 5px;margin-bottom: 5px;height: 45px;}
+.product_price{width:80px;}
+.flexbox.center {
+    display: -webkit-box;
+    display: box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    -webkit-box-pack: center;
+    -moz-box-pack: center;
+    box-align: center;
+    box-pack: center;
+    align-items: center;
+    -webkit-align-items: center;
+    justify-content: center;
+    -webkit-justify-content: center;
+}
+a{text-decoration: none!important;color: #000;}
+.w{width: 1160px;margin-left: auto;margin-right: auto;}
+.header{width:100%;height:55px;background:#ffc43a;position: fixed;width: 100%;top: 0;z-index: 999}
+.header .w{position: relative;}
+.header .w a.logo{position: absolute;top:8px;left: 0;z-index: 2;width:180px;height: 40px;display: block;background:url(../images/sprite.png) no-repeat 1px 1px;}
+.header .w .nav{margin:0 240px 0 200px;}
+.header .w .nav ul{float: right;}
+.header .w .nav ul li{height: 55px;float: left;}
+.header .w .nav ul li>a{display: block;height: 55px;padding-left:20px;padding-right:20px;line-height: 55px;font-size:16px;text-align: center;position: relative;transition:all 0.3s;font-family: "Microsoft YaHei";}
+.header .w .nav ul li>a.on:after{content:"";width:60%;height:3px;background:#444;position:absolute;left:20%;bottom:1px;}
+.header .w .nav ul li>a:hover{background: #feb300;}
+.header .w .nav ul li.chuangyijishi-li>a{position: relative;padding-right: 45px;}
+.header .w .nav ul li.chuangyijishi-li>a>i{position:absolute;top:23px;right:20px;z-index:2;width:17px;height:11px;display:block;background:url(../images/sprite.png) no-repeat -43px -78px;}
+.header .w .nav ul li.chuangyijishi-li:hover .chuangyijishi-more-link{display: block;}
+.chuangyijishi-more-link{border-left: 1px solid #D9D9D9;border-right: 1px solid #D9D9D9;border-bottom: 1px solid #D9D9D9;box-sizing:border-box;display: none;background: #fff;position: relative;z-index: 2;}
+.chuangyijishi-more-link a{display: block;height: 50px;line-height: 50px;font-size: 14px;padding-left: 23px;font-family: "Microsoft YaHei";}
+.chuangyijishi-more-link a:hover{background: #F1F1F1;}
+.header .w .account{position: absolute;top:0;right: 0;z-index: 2;width:200px;min-height: 55px;}
+.header .w .account>a.person{width: 200px;height: 55px;display: block;overflow: hidden;transition:all 0.3s;}
+.header .w .account>a.person:hover{background: #feb300;}
+.header .w .account>a.person img.pic{width:50px;height:50px;display:block;float:left;margin-left: 15px;border-radius: 100%;/*border: 1px solid #444;box-sizing:border-box;*/position: relative;top:2px;}
+.header .w .account>a.person span.name{font-size: 16px;max-width:72px;line-height: 55px;display: block;float: left;margin-left: 8px;margin-right: 8px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;font-family: "Microsoft YaHei";}
+.header .w .account>a.person i{width: 17px;height: 11px;display: block;float: left;position: relative;top:23px;background: url(../images/sprite.png) no-repeat -43px -78px;}
+.header .w .account .member-navs{border-left: 1px solid #D9D9D9;border-right: 1px solid #D9D9D9;border-bottom: 1px solid #D9D9D9;box-sizing:border-box;display: none;background: #fff;transition:all 0.3s;}
+.header .w .account:hover .member-navs{display: block;}
+.header .w .account .member-navs a{display: block;width: 100%;height: 50px;line-height: 50px;font-size: 14px;transition:all 0.3s;}
+.header .w .account .member-navs a:hover{background: #F1F1F1;}
+.header .w .account .member-navs a i{width: 25px;height: 25px;display: inline-block;margin:0px 10px 10px 20px;position: relative;top:15px;}
+.header .w .account .member-navs a.my-ms i{background: url(../images/sprite.png) no-repeat -77px -66px;}
+.header .w .account .member-navs a.manager i{background: url(../images/sprite.png) no-repeat -112px -66px;}
+.header .w .account .member-navs a.logout i{background: url(../images/sprite.png) no-repeat -145px -66px;}

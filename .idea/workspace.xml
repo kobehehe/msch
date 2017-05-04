@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a20cf865-e1d5-4a66-b723-fb98a75e3bb7" name="Default" comment="" />
+    <ignored path="msch.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="msch" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="callback.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/callback.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2692308">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BackgroundController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/portal/protected/controllers/BackgroundController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.3636364">
+              <caret line="7142" column="35" selection-start-line="7142" selection-start-column="35" selection-end-line="7142" selection-end-column="35" />
+              <folding>
+                <element signature="e#7#33#0#PHP" expanded="true" />
+                <marker date="1493726665603" expanded="true" signature="12880:13002" placeholder="select * fro..case_info..." />
+                <marker date="1493726665603" expanded="true" signature="12921:12964" placeholder="select CI_ID..case_bind..." />
+                <marker date="1493726665603" expanded="true" signature="14182:14717" placeholder="select * fro..case_info..." />
+                <marker date="1493726665603" expanded="true" signature="14245:14380" placeholder="select CI_ID..case_bind..." />
+                <marker date="1493726665603" expanded="true" signature="14328:14366" placeholder="select accou..staff..." />
+                <marker date="1493726665603" expanded="true" signature="14419:14550" placeholder="select CI_ID..case_bind..." />
+                <marker date="1493726665603" expanded="true" signature="14498:14536" placeholder="select hotel..staff..." />
+                <marker date="1493726665603" expanded="true" signature="14588:14643" placeholder="select CI_ID..case_bind..." />
+                <marker date="1493726665603" expanded="true" signature="30151:30246" placeholder="select * fro..order_model..." />
+                <marker date="1493726665603" expanded="true" signature="32683:32821" placeholder="select * fro..library_staff_folder..." />
+                <marker date="1493726665603" expanded="true" signature="32778:32820" placeholder="select folde..library_share_folder..." />
+                <marker date="1493726665603" expanded="true" signature="33013:33169" placeholder="select * fro..library_web_case_img..." />
+                <marker date="1493726665603" expanded="true" signature="33090:33145" placeholder="select Img_I..library_folder_bind..." />
+                <marker date="1493726665603" expanded="true" signature="34237:34456" placeholder="select o.id,..order..." />
+                <marker date="1493726665603" expanded="true" signature="35079:35177" placeholder="select * fro..library_staff_folder..." />
+                <marker date="1493726665603" expanded="true" signature="35134:35176" placeholder="select folde..library_share_folder..." />
+                <marker date="1493726665603" expanded="true" signature="35369:35525" placeholder="select * fro..library_web_case_img..." />
+                <marker date="1493726665603" expanded="true" signature="35446:35501" placeholder="select Img_I..library_folder_bind..." />
+                <marker date="1493726665603" expanded="true" signature="43249:43544" placeholder="select o.id,..order..." />
+                <marker date="1493726665603" expanded="true" signature="47156:47451" placeholder="select o.id,..order..." />
+                <marker date="1493726665603" expanded="true" signature="51212:51261" placeholder="select id,na..staff_hotel..." />
+                <marker date="1493726665603" expanded="true" signature="51395:51476" placeholder="select * fro..order_show_idea_words..." />
+                <marker date="1493726665603" expanded="true" signature="52594:52675" placeholder="select * fro..order_show_idea_color..." />
+                <marker date="1493726665603" expanded="true" signature="54809:54914" placeholder="select id,im..order_show_img..." />
+                <marker date="1493726665603" expanded="true" signature="55042:55117" placeholder="select * fro..order_show..." />
+                <marker date="1493726665603" expanded="true" signature="56574:56649" placeholder="select * fro..order_show_area..." />
+                <marker date="1493726665603" expanded="true" signature="56929:56991" placeholder="select id,na..order_show_area_subarea..." />
+                <marker date="1493726665603" expanded="true" signature="58705:58807" placeholder="select id,na..staff_hotel..." />
+                <marker date="1493726665603" expanded="true" signature="58758:58796" placeholder="select accou..staff..." />
+                <marker date="1493726665603" expanded="true" signature="59499:59561" placeholder="select id,na..order_show_area_subarea..." />
+                <marker date="1493726665603" expanded="true" signature="59827:60124" placeholder="select * fro..service_province_city..." />
+                <marker date="1493726665603" expanded="true" signature="59893:60123" placeholder="select city_..staff..." />
+                <marker date="1493726665603" expanded="true" signature="59953:60122" placeholder="select staff..service_person..." />
+                <marker date="1493726665603" expanded="true" signature="60027:60106" placeholder="select servi..service_product..." />
+                <marker date="1493726665603" expanded="true" signature="61074:61480" placeholder="select * fro..service_person..." />
+                <marker date="1493726665603" expanded="true" signature="61137:61479" placeholder="select servi..service_product..." />
+                <marker date="1493726665603" expanded="true" signature="61250:61309" placeholder="select suppl..order_show_area_subarea..." />
+                <marker date="1493726665603" expanded="true" signature="61377:61478" placeholder="select id fr..service_person..." />
+                <marker date="1493726665603" expanded="true" signature="61426:61461" placeholder="select id fr..staff..." />
+                <marker date="1493726665603" expanded="true" signature="61749:61802" placeholder="select id,na..order_show_area_subarea..." />
+                <marker date="1493726665603" expanded="true" signature="63922:64123" placeholder="select * fro..library_staff_folder_tab..." />
+                <marker date="1493726665603" expanded="true" signature="63991:64122" placeholder="select tab_i..library_staff_folder..." />
+                <marker date="1493726665603" expanded="true" signature="64079:64121" placeholder="select folde..library_share_folder..." />
+                <marker date="1493726665603" expanded="true" signature="65666:65839" placeholder="select Img_I..library_web_case_img..." />
+                <marker date="1493726665603" expanded="true" signature="65749:65804" placeholder="select Img_I..library_folder_bind..." />
+                <marker date="1493726665603" expanded="true" signature="65960:66013" placeholder="select id,na..order_show_area_subarea..." />
+                <marker date="1493726665603" expanded="true" signature="72058:72249" placeholder="select lsf.F..library_staff_folder..." />
+                <marker date="1493726665603" expanded="true" signature="72767:72914" placeholder="select * fro..case_info_space..." />
+                <marker date="1493726665603" expanded="true" signature="73021:73068" placeholder="select * fro..case_info_color..." />
+                <marker date="1493726665603" expanded="true" signature="73196:73243" placeholder="select * fro..case_info_style..." />
+                <marker date="1493726665603" expanded="true" signature="73467:73503" placeholder="select * fro..case_info..." />
+                <marker date="1493726665603" expanded="true" signature="79045:79256" placeholder="select o.id,..order..." />
+                <marker date="1493726665603" expanded="true" signature="85447:85586" placeholder="select * fro..library_web_case_img..." />
+                <marker date="1493726665603" expanded="true" signature="85516:85571" placeholder="select Img_I..library_folder_bind..." />
+                <marker date="1493726665603" expanded="true" signature="87078:87289" placeholder="select o.id,..order..." />
+                <marker date="1493726665603" expanded="true" signature="89725:89923" placeholder="select case_..case_resources_product..." />
+                <marker date="1493726665603" expanded="true" signature="96936:97086" placeholder="select * fro..order_show_area_subarea..." />
+                <marker date="1493726665603" expanded="true" signature="97021:97064" placeholder="select id fr..order_show_area..." />
+                <marker date="1493726665603" expanded="true" signature="100223:100578" placeholder="select produ..service_product..." />
+                <marker date="1493726665603" expanded="true" signature="105471:105585" placeholder="select * fro..service_product..." />
+                <marker date="1493726665603" expanded="true" signature="105543:105584" placeholder="select id fr..supplier_type..." />
+                <marker date="1493726665603" expanded="true" signature="113084:113439" placeholder="select produ..service_product..." />
+                <marker date="1493726665603" expanded="true" signature="116829:117003" placeholder="select suppl..supplier..." />
+                <marker date="1493726665603" expanded="true" signature="117935:118224" placeholder="select suppl..supplier..." />
+                <marker date="1493726665603" expanded="true" signature="145135:145281" placeholder="select * fro..service_product..." />
+                <marker date="1493726665603" expanded="true" signature="145199:145256" placeholder="select servi..supplier_product..." />
+                <marker date="1493726665603" expanded="true" signature="150534:150732" placeholder="select case_..case_resources_product..." />
+                <marker date="1493726665603" expanded="true" signature="153245:153443" placeholder="select case_..case_resources_product..." />
+                <marker date="1493726665603" expanded="true" signature="158930:159113" placeholder="select suppl..supplier..." />
+                <marker date="1493726665603" expanded="true" signature="160457:160631" placeholder="select suppl..supplier..." />
+                <marker date="1493726665603" expanded="true" signature="160775:161064" placeholder="select suppl..supplier..." />
+                <marker date="1493726665603" expanded="true" signature="161209:161488" placeholder="select suppl..supplier..." />
+                <marker date="1493726665603" expanded="true" signature="164299:164578" placeholder="select suppl..supplier..." />
+                <marker date="1493726665603" expanded="true" signature="213361:213417" placeholder="select count..library_web_case_img..." />
+                <marker date="1493726665603" expanded="true" signature="213595:213783" placeholder="select o.id,..order..." />
+                <marker date="1493726665603" expanded="true" signature="213965:213999" placeholder="select * fro..library_web_tab_type..." />
+                <marker date="1493726665603" expanded="true" signature="214168:214212" placeholder="select * fro..library_web_tab..." />
+                <marker date="1493726665603" expanded="true" signature="215103:215203" placeholder="select * fro..library_web_case_img..." />
+                <marker date="1493726665603" expanded="true" signature="221569:221780" placeholder="select o.id,..order..." />
+                <marker date="1493726665603" expanded="true" signature="233767:234292" placeholder="select * fro..case_info..." />
+                <marker date="1493726665603" expanded="true" signature="233830:233965" placeholder="select CI_ID..case_bind..." />
+                <marker date="1493726665603" expanded="true" signature="233913:233951" placeholder="select accou..staff..." />
+                <marker date="1493726665603" expanded="true" signature="234003:234138" placeholder="select CI_ID..case_bind..." />
+                <marker date="1493726665603" expanded="true" signature="234086:234124" placeholder="select hotel..staff..." />
+                <marker date="1493726665603" expanded="true" signature="234176:234231" placeholder="select CI_ID..case_bind..." />
+                <marker date="1493726665603" expanded="true" signature="235020:235068" placeholder="select id,na..case_info_color..." />
+                <marker date="1493726665603" expanded="true" signature="235169:235217" placeholder="select id,na..case_info_color..." />
+                <marker date="1493726665603" expanded="true" signature="235318:235366" placeholder="select id,na..case_info_color..." />
+                <marker date="1493726665603" expanded="true" signature="235496:236146" placeholder="select * fro..case_info..." />
+                <marker date="1493726665603" expanded="true" signature="235559:235694" placeholder="select CI_ID..case_bind..." />
+                <marker date="1493726665603" expanded="true" signature="235642:235680" placeholder="select accou..staff..." />
+                <marker date="1493726665603" expanded="true" signature="235732:235867" placeholder="select CI_ID..case_bind..." />
+                <marker date="1493726665603" expanded="true" signature="235815:235853" placeholder="select hotel..staff..." />
+                <marker date="1493726665603" expanded="true" signature="235905:235960" placeholder="select CI_ID..case_bind..." />
+                <marker date="1493726665603" expanded="true" signature="237866:237999" placeholder="select * fro..library_staff_folder..." />
+                <marker date="1493726665603" expanded="true" signature="237942:237984" placeholder="select folde..library_share_folder..." />
+                <marker date="1493726665603" expanded="true" signature="238171:238357" placeholder="select * fro..library_staff_folder..." />
+                <marker date="1493726665603" expanded="true" signature="238247:238289" placeholder="select folde..library_share_folder..." />
+                <marker date="1493726665603" expanded="true" signature="238535:238686" placeholder="select * fro..library_web_case_img..." />
+                <marker date="1493726665603" expanded="true" signature="238607:238662" placeholder="select Img_I..library_folder_bind..." />
+                <marker date="1493726665603" expanded="true" signature="239496:239697" placeholder="select * fro..library_staff_folder_tab..." />
+                <marker date="1493726665603" expanded="true" signature="239565:239696" placeholder="select tab_i..library_staff_folder..." />
+                <marker date="1493726665603" expanded="true" signature="239653:239695" placeholder="select folde..library_share_folder..." />
+                <marker date="1493726665603" expanded="true" signature="244934:244988" placeholder="select * fro..supplier_type..." />
+                <marker date="1493726665603" expanded="true" signature="245087:245299" placeholder="select o.id,..order..." />
+                <marker date="1493726665603" expanded="true" signature="255191:255649" placeholder="select spi.i..service_product_img..." />
+                <marker date="1493726665603" expanded="true" signature="255485:255648" placeholder="select id fr..service_product..." />
+                <marker date="1493726665603" expanded="true" signature="255592:255637" placeholder="select id fr..service_person..." />
+                <marker date="1493726665603" expanded="true" signature="256129:256683" placeholder="select spi.s..service_product_img..." />
+                <marker date="1493726665603" expanded="true" signature="256424:256587" placeholder="select id fr..service_product..." />
+                <marker date="1493726665603" expanded="true" signature="256531:256576" placeholder="select id fr..service_person..." />
+                <marker date="1493726665603" expanded="true" signature="256822:257036" placeholder="select * fro..order_show_img_case..." />
+                <marker date="1493726665603" expanded="true" signature="257160:257328" placeholder="select * fro..order_show_img_color..." />
+                <marker date="1493726665603" expanded="true" signature="257454:257622" placeholder="select * fro..order_show_img_style..." />
+                <marker date="1493726665603" expanded="true" signature="259704:259908" placeholder="select * fro..service_product..." />
+                <marker date="1493726665603" expanded="true" signature="259779:259824" placeholder="select id fr..service_person..." />
+                <marker date="1493726665603" expanded="true" signature="260083:260307" placeholder="select * fro..service_product..." />
+                <marker date="1493726665603" expanded="true" signature="260158:260203" placeholder="select id fr..service_person..." />
+                <marker date="1493726665603" expanded="true" signature="262115:262253" placeholder="select id,na..supplier_type..." />
+                <marker date="1493726665603" expanded="true" signature="264575:264685" placeholder="select id,na..store_case_type..." />
+                <marker date="1493726665603" expanded="true" signature="265212:265278" placeholder="select id,na..order_show_area_subarea..." />
+                <marker date="1493726665603" expanded="true" signature="265386:265464" placeholder="select id,na..order_show_img_case..." />
+                <marker date="1493726665603" expanded="true" signature="265568:265623" placeholder="select id,na..order_show_img_color..." />
+                <marker date="1493726665603" expanded="true" signature="265729:265784" placeholder="select id,na..order_show_img_style..." />
+                <marker date="1493726665603" expanded="true" signature="278565:278942" placeholder="select * fro..service_province..." />
+                <marker date="1493726665603" expanded="true" signature="278626:278941" placeholder="select provi..service_province_city..." />
+                <marker date="1493726665603" expanded="true" signature="278706:278940" placeholder="select city_..staff..." />
+                <marker date="1493726665603" expanded="true" signature="278770:278939" placeholder="select staff..service_person..." />
+                <marker date="1493726665603" expanded="true" signature="278858:278938" placeholder="select suppl..order_show_area_subarea..." />
+                <marker date="1493726665603" expanded="true" signature="279265:279603" placeholder="select * fro..service_province_city..." />
+                <marker date="1493726665603" expanded="true" signature="279368:279602" placeholder="select city_..staff..." />
+                <marker date="1493726665603" expanded="true" signature="279432:279601" placeholder="select staff..service_person..." />
+                <marker date="1493726665603" expanded="true" signature="279520:279600" placeholder="select suppl..order_show_area_subarea..." />
+                <marker date="1493726665603" expanded="true" signature="281249:281374" placeholder="select * fro..order_model..." />
+                <marker date="1493726665603" expanded="true" signature="282838:282877" placeholder="select * fro..library_share_folder_type..." />
+                <marker date="1493726665603" expanded="true" signature="284267:284419" placeholder="select * fro..library_web_case_img..." />
+                <marker date="1493726665603" expanded="true" signature="284339:284394" placeholder="select Img_I..library_folder_bind..." />
+                <marker date="1493726665603" expanded="true" signature="285431:285658" placeholder="select * fro..library_web_case_img..." />
+                <marker date="1493726665603" expanded="true" signature="285501:285621" placeholder="select Case_..library_web_case..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/framework/yii/framework/web/CController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.0">
+              <caret line="768" column="32" selection-start-line="768" selection-start-column="27" selection-end-line="768" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainpage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/mainpage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/portal/protected/controllers/BackgroundController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1159" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a20cf865-e1d5-4a66-b723-fb98a75e3bb7" name="Default" comment="" />
+      <created>1493698906493</created>
+      <option name="number" value="Default" />
+      <updated>1493698906493</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1159" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/weixin/callback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/mainpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal/protected/views/background/invite_use.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5844287">
+          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/mainpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/callback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/framework/yii/framework/web/CController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.0">
+          <caret line="768" column="32" selection-start-line="768" selection-start-column="27" selection-end-line="768" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal/protected/controllers/BackgroundController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3636364">
+          <caret line="7142" column="35" selection-start-line="7142" selection-start-column="35" selection-end-line="7142" selection-end-column="35" />
+          <folding>
+            <element signature="e#7#33#0#PHP" expanded="true" />
+            <marker date="1493726665603" expanded="true" signature="12880:13002" placeholder="select * fro..case_info..." />
+            <marker date="1493726665603" expanded="true" signature="12921:12964" placeholder="select CI_ID..case_bind..." />
+            <marker date="1493726665603" expanded="true" signature="14182:14717" placeholder="select * fro..case_info..." />
+            <marker date="1493726665603" expanded="true" signature="14245:14380" placeholder="select CI_ID..case_bind..." />
+            <marker date="1493726665603" expanded="true" signature="14328:14366" placeholder="select accou..staff..." />
+            <marker date="1493726665603" expanded="true" signature="14419:14550" placeholder="select CI_ID..case_bind..." />
+            <marker date="1493726665603" expanded="true" signature="14498:14536" placeholder="select hotel..staff..." />
+            <marker date="1493726665603" expanded="true" signature="14588:14643" placeholder="select CI_ID..case_bind..." />
+            <marker date="1493726665603" expanded="true" signature="30151:30246" placeholder="select * fro..order_model..." />
+            <marker date="1493726665603" expanded="true" signature="32683:32821" placeholder="select * fro..library_staff_folder..." />
+            <marker date="1493726665603" expanded="true" signature="32778:32820" placeholder="select folde..library_share_folder..." />
+            <marker date="1493726665603" expanded="true" signature="33013:33169" placeholder="select * fro..library_web_case_img..." />
+            <marker date="1493726665603" expanded="true" signature="33090:33145" placeholder="select Img_I..library_folder_bind..." />
+            <marker date="1493726665603" expanded="true" signature="34237:34456" placeholder="select o.id,..order..." />
+            <marker date="1493726665603" expanded="true" signature="35079:35177" placeholder="select * fro..library_staff_folder..." />
+            <marker date="1493726665603" expanded="true" signature="35134:35176" placeholder="select folde..library_share_folder..." />
+            <marker date="1493726665603" expanded="true" signature="35369:35525" placeholder="select * fro..library_web_case_img..." />
+            <marker date="1493726665603" expanded="true" signature="35446:35501" placeholder="select Img_I..library_folder_bind..." />
+            <marker date="1493726665603" expanded="true" signature="43249:43544" placeholder="select o.id,..order..." />
+            <marker date="1493726665603" expanded="true" signature="47156:47451" placeholder="select o.id,..order..." />
+            <marker date="1493726665603" expanded="true" signature="51212:51261" placeholder="select id,na..staff_hotel..." />
+            <marker date="1493726665603" expanded="true" signature="51395:51476" placeholder="select * fro..order_show_idea_words..." />
+            <marker date="1493726665603" expanded="true" signature="52594:52675" placeholder="select * fro..order_show_idea_color..." />
+            <marker date="1493726665603" expanded="true" signature="54809:54914" placeholder="select id,im..order_show_img..." />
+            <marker date="1493726665603" expanded="true" signature="55042:55117" placeholder="select * fro..order_show..." />
+            <marker date="1493726665603" expanded="true" signature="56574:56649" placeholder="select * fro..order_show_area..." />
+            <marker date="1493726665603" expanded="true" signature="56929:56991" placeholder="select id,na..order_show_area_subarea..." />
+            <marker date="1493726665603" expanded="true" signature="58705:58807" placeholder="select id,na..staff_hotel..." />
+            <marker date="1493726665603" expanded="true" signature="58758:58796" placeholder="select accou..staff..." />
+            <marker date="1493726665603" expanded="true" signature="59499:59561" placeholder="select id,na..order_show_area_subarea..." />
+            <marker date="1493726665603" expanded="true" signature="59827:60124" placeholder="select * fro..service_province_city..." />
+            <marker date="1493726665603" expanded="true" signature="59893:60123" placeholder="select city_..staff..." />
+            <marker date="1493726665603" expanded="true" signature="59953:60122" placeholder="select staff..service_person..." />
+            <marker date="1493726665603" expanded="true" signature="60027:60106" placeholder="select servi..service_product..." />
+            <marker date="1493726665603" expanded="true" signature="61074:61480" placeholder="select * fro..service_person..." />
+            <marker date="1493726665603" expanded="true" signature="61137:61479" placeholder="select servi..service_product..." />
+            <marker date="1493726665603" expanded="true" signature="61250:61309" placeholder="select suppl..order_show_area_subarea..." />
+            <marker date="1493726665603" expanded="true" signature="61377:61478" placeholder="select id fr..service_person..." />
+            <marker date="1493726665603" expanded="true" signature="61426:61461" placeholder="select id fr..staff..." />
+            <marker date="1493726665603" expanded="true" signature="61749:61802" placeholder="select id,na..order_show_area_subarea..." />
+            <marker date="1493726665603" expanded="true" signature="63922:64123" placeholder="select * fro..library_staff_folder_tab..." />
+            <marker date="1493726665603" expanded="true" signature="63991:64122" placeholder="select tab_i..library_staff_folder..." />
+            <marker date="1493726665603" expanded="true" signature="64079:64121" placeholder="select folde..library_share_folder..." />
+            <marker date="1493726665603" expanded="true" signature="65666:65839" placeholder="select Img_I..library_web_case_img..." />
+            <marker date="1493726665603" expanded="true" signature="65749:65804" placeholder="select Img_I..library_folder_bind..." />
+            <marker date="1493726665603" expanded="true" signature="65960:66013" placeholder="select id,na..order_show_area_subarea..." />
+            <marker date="1493726665603" expanded="true" signature="72058:72249" placeholder="select lsf.F..library_staff_folder..." />
+            <marker date="1493726665603" expanded="true" signature="72767:72914" placeholder="select * fro..case_info_space..." />
+            <marker date="1493726665603" expanded="true" signature="73021:73068" placeholder="select * fro..case_info_color..." />
+            <marker date="1493726665603" expanded="true" signature="73196:73243" placeholder="select * fro..case_info_style..." />
+            <marker date="1493726665603" expanded="true" signature="73467:73503" placeholder="select * fro..case_info..." />
+            <marker date="1493726665603" expanded="true" signature="79045:79256" placeholder="select o.id,..order..." />
+            <marker date="1493726665603" expanded="true" signature="85447:85586" placeholder="select * fro..library_web_case_img..." />
+            <marker date="1493726665603" expanded="true" signature="85516:85571" placeholder="select Img_I..library_folder_bind..." />
+            <marker date="1493726665603" expanded="true" signature="87078:87289" placeholder="select o.id,..order..." />
+            <marker date="1493726665603" expanded="true" signature="89725:89923" placeholder="select case_..case_resources_product..." />
+            <marker date="1493726665603" expanded="true" signature="96936:97086" placeholder="select * fro..order_show_area_subarea..." />
+            <marker date="1493726665603" expanded="true" signature="97021:97064" placeholder="select id fr..order_show_area..." />
+            <marker date="1493726665603" expanded="true" signature="100223:100578" placeholder="select produ..service_product..." />
+            <marker date="1493726665603" expanded="true" signature="105471:105585" placeholder="select * fro..service_product..." />
+            <marker date="1493726665603" expanded="true" signature="105543:105584" placeholder="select id fr..supplier_type..." />
+            <marker date="1493726665603" expanded="true" signature="113084:113439" placeholder="select produ..service_product..." />
+            <marker date="1493726665603" expanded="true" signature="116829:117003" placeholder="select suppl..supplier..." />
+            <marker date="1493726665603" expanded="true" signature="117935:118224" placeholder="select suppl..supplier..." />
+            <marker date="1493726665603" expanded="true" signature="145135:145281" placeholder="select * fro..service_product..." />
+            <marker date="1493726665603" expanded="true" signature="145199:145256" placeholder="select servi..supplier_product..." />
+            <marker date="1493726665603" expanded="true" signature="150534:150732" placeholder="select case_..case_resources_product..." />
+            <marker date="1493726665603" expanded="true" signature="153245:153443" placeholder="select case_..case_resources_product..." />
+            <marker date="1493726665603" expanded="true" signature="158930:159113" placeholder="select suppl..supplier..." />
+            <marker date="1493726665603" expanded="true" signature="160457:160631" placeholder="select suppl..supplier..." />
+            <marker date="1493726665603" expanded="true" signature="160775:161064" placeholder="select suppl..supplier..." />
+            <marker date="1493726665603" expanded="true" signature="161209:161488" placeholder="select suppl..supplier..." />
+            <marker date="1493726665603" expanded="true" signature="164299:164578" placeholder="select suppl..supplier..." />
+            <marker date="1493726665603" expanded="true" signature="213361:213417" placeholder="select count..library_web_case_img..." />
+            <marker date="1493726665603" expanded="true" signature="213595:213783" placeholder="select o.id,..order..." />
+            <marker date="1493726665603" expanded="true" signature="213965:213999" placeholder="select * fro..library_web_tab_type..." />
+            <marker date="1493726665603" expanded="true" signature="214168:214212" placeholder="select * fro..library_web_tab..." />
+            <marker date="1493726665603" expanded="true" signature="215103:215203" placeholder="select * fro..library_web_case_img..." />
+            <marker date="1493726665603" expanded="true" signature="221569:221780" placeholder="select o.id,..order..." />
+            <marker date="1493726665603" expanded="true" signature="233767:234292" placeholder="select * fro..case_info..." />
+            <marker date="1493726665603" expanded="true" signature="233830:233965" placeholder="select CI_ID..case_bind..." />
+            <marker date="1493726665603" expanded="true" signature="233913:233951" placeholder="select accou..staff..." />
+            <marker date="1493726665603" expanded="true" signature="234003:234138" placeholder="select CI_ID..case_bind..." />
+            <marker date="1493726665603" expanded="true" signature="234086:234124" placeholder="select hotel..staff..." />
+            <marker date="1493726665603" expanded="true" signature="234176:234231" placeholder="select CI_ID..case_bind..." />
+            <marker date="1493726665603" expanded="true" signature="235020:235068" placeholder="select id,na..case_info_color..." />
+            <marker date="1493726665603" expanded="true" signature="235169:235217" placeholder="select id,na..case_info_color..." />
+            <marker date="1493726665603" expanded="true" signature="235318:235366" placeholder="select id,na..case_info_color..." />
+            <marker date="1493726665603" expanded="true" signature="235496:236146" placeholder="select * fro..case_info..." />
+            <marker date="1493726665603" expanded="true" signature="235559:235694" placeholder="select CI_ID..case_bind..." />
+            <marker date="1493726665603" expanded="true" signature="235642:235680" placeholder="select accou..staff..." />
+            <marker date="1493726665603" expanded="true" signature="235732:235867" placeholder="select CI_ID..case_bind..." />
+            <marker date="1493726665603" expanded="true" signature="235815:235853" placeholder="select hotel..staff..." />
+            <marker date="1493726665603" expanded="true" signature="235905:235960" placeholder="select CI_ID..case_bind..." />
+            <marker date="1493726665603" expanded="true" signature="237866:237999" placeholder="select * fro..library_staff_folder..." />
+            <marker date="1493726665603" expanded="true" signature="237942:237984" placeholder="select folde..library_share_folder..." />
+            <marker date="1493726665603" expanded="true" signature="238171:238357" placeholder="select * fro..library_staff_folder..." />
+            <marker date="1493726665603" expanded="true" signature="238247:238289" placeholder="select folde..library_share_folder..." />
+            <marker date="1493726665603" expanded="true" signature="238535:238686" placeholder="select * fro..library_web_case_img..." />
+            <marker date="1493726665603" expanded="true" signature="238607:238662" placeholder="select Img_I..library_folder_bind..." />
+            <marker date="1493726665603" expanded="true" signature="239496:239697" placeholder="select * fro..library_staff_folder_tab..." />
+            <marker date="1493726665603" expanded="true" signature="239565:239696" placeholder="select tab_i..library_staff_folder..." />
+            <marker date="1493726665603" expanded="true" signature="239653:239695" placeholder="select folde..library_share_folder..." />
+            <marker date="1493726665603" expanded="true" signature="244934:244988" placeholder="select * fro..supplier_type..." />
+            <marker date="1493726665603" expanded="true" signature="245087:245299" placeholder="select o.id,..order..." />
+            <marker date="1493726665603" expanded="true" signature="255191:255649" placeholder="select spi.i..service_product_img..." />
+            <marker date="1493726665603" expanded="true" signature="255485:255648" placeholder="select id fr..service_product..." />
+            <marker date="1493726665603" expanded="true" signature="255592:255637" placeholder="select id fr..service_person..." />
+            <marker date="1493726665603" expanded="true" signature="256129:256683" placeholder="select spi.s..service_product_img..." />
+            <marker date="1493726665603" expanded="true" signature="256424:256587" placeholder="select id fr..service_product..." />
+            <marker date="1493726665603" expanded="true" signature="256531:256576" placeholder="select id fr..service_person..." />
+            <marker date="1493726665603" expanded="true" signature="256822:257036" placeholder="select * fro..order_show_img_case..." />
+            <marker date="1493726665603" expanded="true" signature="257160:257328" placeholder="select * fro..order_show_img_color..." />
+            <marker date="1493726665603" expanded="true" signature="257454:257622" placeholder="select * fro..order_show_img_style..." />
+            <marker date="1493726665603" expanded="true" signature="259704:259908" placeholder="select * fro..service_product..." />
+            <marker date="1493726665603" expanded="true" signature="259779:259824" placeholder="select id fr..service_person..." />
+            <marker date="1493726665603" expanded="true" signature="260083:260307" placeholder="select * fro..service_product..." />
+            <marker date="1493726665603" expanded="true" signature="260158:260203" placeholder="select id fr..service_person..." />
+            <marker date="1493726665603" expanded="true" signature="262115:262253" placeholder="select id,na..supplier_type..." />
+            <marker date="1493726665603" expanded="true" signature="264575:264685" placeholder="select id,na..store_case_type..." />
+            <marker date="1493726665603" expanded="true" signature="265212:265278" placeholder="select id,na..order_show_area_subarea..." />
+            <marker date="1493726665603" expanded="true" signature="265386:265464" placeholder="select id,na..order_show_img_case..." />
+            <marker date="1493726665603" expanded="true" signature="265568:265623" placeholder="select id,na..order_show_img_color..." />
+            <marker date="1493726665603" expanded="true" signature="265729:265784" placeholder="select id,na..order_show_img_style..." />
+            <marker date="1493726665603" expanded="true" signature="278565:278942" placeholder="select * fro..service_province..." />
+            <marker date="1493726665603" expanded="true" signature="278626:278941" placeholder="select provi..service_province_city..." />
+            <marker date="1493726665603" expanded="true" signature="278706:278940" placeholder="select city_..staff..." />
+            <marker date="1493726665603" expanded="true" signature="278770:278939" placeholder="select staff..service_person..." />
+            <marker date="1493726665603" expanded="true" signature="278858:278938" placeholder="select suppl..order_show_area_subarea..." />
+            <marker date="1493726665603" expanded="true" signature="279265:279603" placeholder="select * fro..service_province_city..." />
+            <marker date="1493726665603" expanded="true" signature="279368:279602" placeholder="select city_..staff..." />
+            <marker date="1493726665603" expanded="true" signature="279432:279601" placeholder="select staff..service_person..." />
+            <marker date="1493726665603" expanded="true" signature="279520:279600" placeholder="select suppl..order_show_area_subarea..." />
+            <marker date="1493726665603" expanded="true" signature="281249:281374" placeholder="select * fro..order_model..." />
+            <marker date="1493726665603" expanded="true" signature="282838:282877" placeholder="select * fro..library_share_folder_type..." />
+            <marker date="1493726665603" expanded="true" signature="284267:284419" placeholder="select * fro..library_web_case_img..." />
+            <marker date="1493726665603" expanded="true" signature="284339:284394" placeholder="select Img_I..library_folder_bind..." />
+            <marker date="1493726665603" expanded="true" signature="285431:285658" placeholder="select * fro..library_web_case_img..." />
+            <marker date="1493726665603" expanded="true" signature="285501:285621" placeholder="select Case_..library_web_case..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,224 @@
+/*order_template_list css*/
+.upload_wapper {
+    width: 1160px;
+    margin: 0 auto;
+}
+
+.upload_top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    height: 55px;
+    width: 100%;
+    background: #202122;
+}
+
+.upload_top .nick {
+    color: #fff;
+    line-height: 55px;
+    padding-right: 25px;
+    background: url('../images/level.jpg') no-repeat right center;
+}
+.banner_box{
+    margin-top: 55px;
+    margin-bottom: 15px;
+}
+.banner_box .banner{
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+}
+.banner .pagination{
+    position: absolute;
+    z-index: 99;
+    text-align: center;
+}
+.swiper-pagination-bullet{
+    background: none;
+    border: 1px solid #fff;
+    opacity: 1;
+    box-sizing: border-box;
+}
+.swiper-pagination-bullet-active{
+    background: #007aff;
+    border: none;
+}
+.banner_box img{
+    width: 100%;
+}
+
+.main_container{
+    min-height: 50px;
+    width: 880px;
+}
+.side_container{
+    min-height: 50px;
+    width:260px;
+}
+.filter_c{
+    width: 100%;
+    border: 1px solid #e6e6e6;
+    background: #fff;
+    padding: 0 15px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+.filter_c .filter_list>li{
+    height: 24px;
+    padding: 10px 0;
+    border-bottom: 1px dotted #e6e6e6;
+    overflow: hidden;
+}
+.filter_c .filter_list>li.p_item{
+    height: auto;
+}
+.filter_c .filter_list>li:last-child{
+    border-bottom: none;
+}
+.filter_c .filter_list>li .name{
+    width: 80px;
+    text-align: left;
+    font-size: 13px;
+     margin-top: 3px;
+}
+.filter_c .filter_list>li .list{
+    /*width: 730px;*/
+    margin:0 50px 0 80px;
+}
+.filter_c .filter_list>li .list span{
+    float: left;
+    margin:5px 10px 5px 0;
+    cursor: pointer;
+    color:#333;
+}
+.filter_c .filter_list>li .list span.active,.filter_c .filter_list>li .list span:hover{
+    color: #2b89e0;
+}
+.filter_c .filter_list>li .morebtn{
+    display: none;
+    width: 40px;
+    background: url('../images/arr.png') no-repeat center right;
+    color: #333;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.filter_c .filter_list>li .morebtn.up{
+    background: url('../images/arrup.png') no-repeat center right;
+}
+.filter_c .inbox .dinput{
+    float: left;
+    width: 50px;
+    height: 30px;
+    border: 1px solid #e6e6e6;
+    border-radius: 4px;
+    padding: 0 5px;
+}
+.filter_c .inbox p{
+    float: left;
+    margin: 0 10px;
+    color: #999;
+    line-height: 30px;
+}
+.filter_c .inbox .surebtn{
+    float: left;
+    width: 50px;
+    height: 30px;
+    border: none;
+    border-radius: 4px;
+    background: #2b89e0;
+    color: #fff;
+    line-height: 30px;
+    margin-left:10px;
+
+}
+.order_tpl_item{
+    position: relative;
+    float: left;
+    width: 23.4%;
+    height: 320px;
+    background: #fff;
+    padding: 10px;
+    margin: 0 .8% 10px .8%;
+    border: 1px solid #e6e6e6;
+    border-radius: 4px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.order_tpl_item.active{
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+}
+.order_tpl_item .img_box{
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.order_tpl_item .img_box img{
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.order_tpl_item .info_box{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 120px;
+    padding: 10px;
+    box-sizing: border-box;
+    background: #fff;
+}
+.order_tpl_item .info_box .name{
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+.order_tpl_item .info_box .price_box{
+    height: 18px;
+    margin-bottom: 15px;
+}
+.order_tpl_item .info_box .price_box strong{
+    color: red;
+    margin-right: 5px;
+}
+.order_tpl_item .info_box .price_box del{
+    color: #999;
+    font-size: 11px;
+}
+.order_tpl_item .info_box .date{
+    display: none;
+    color: #999;
+    margin-bottom: 10px;
+}
+.order_tpl_item .info_box .tx_box{
+    line-height: 35px;
+}
+.order_tpl_item .info_box .tx_box .btn{
+    display: none;
+    width: 50px;
+    height: 30px;
+    background: red;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
+.order_tpl_item .info_box .tx_box .num{
+    padding-left: 20px;
+    background: url('../images/icon_add.png') no-repeat left center;
+    background-size: 15px 15px;
+    color: #999;
+}
+.order_tpl_item .info_box .tx .nick{
+    display: none;
+    margin-right: 10px;
+    color: #666;
+}
+.order_tpl_item .info_box .tx .icon{
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+    border: 1px solid #e6e6e6;
+    vertical-align: middle;
+}

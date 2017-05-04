@@ -1,0 +1,525 @@
+/*报价单css*/
+.main_container{
+    position: relative;
+    margin-top: 80px;
+}
+.main_container .sidebar_c{
+    position: fixed;
+    width: 125px;
+    padding-top: 30px;
+}
+.sidebar_c .sidebar_list .namebox .name{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 5px;
+    line-height: 30px;
+    cursor: pointer;
+}
+.sidebar_list .namebox .expand{
+    width: 15px;
+    height: 15px;
+    background: url('../images/down_a.png') no-repeat;
+    background-size:15px 15px;
+    margin-top: 8px;
+}
+.sidebar_list .namebox .expand.up{
+    background: url('../images/up_a.png') no-repeat;
+    background-size:15px 15px;
+    margin-top: 6px;
+}
+.sidebar_list .namebox .addbtn_box{
+    position: relative;
+}
+.sidebar_list .namebox .addbtn{
+    display: block;
+    width: 18px;
+    height: 18px;
+    background: url('../images/icon_add.png') no-repeat;
+    background-size:18px 18px;
+    margin-top: 6px;
+}
+.addbtn_box{
+    position: relative;
+}
+.hovercon_box{
+    position: absolute;
+    top: 10px;
+    left:18px;
+    display: none;
+    overflow: hidden;
+    z-index: 99;
+}
+.hover_list{
+    width: 100px;
+    background: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.hover_list .hover_item{
+    line-height: 25px;
+    color: #666;
+    padding:5px 10px;
+}
+.hover_list .hover_item.active,.hover_list .hover_item:hover{
+    background: #f7f7f7;
+}
+.hover_list .hover_item img{
+    float: left;
+    width: 15px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.sidebar_list .side_subbar_list{
+    padding-left: 20px;
+    line-height: 25px;
+    color: #666;
+}
+.sidebar_list .side_subbar_list li.active a,.sidebar_list .side_subbar_list a:hover{
+    color: #2b89e0;
+    cursor: pointer;
+}
+.main_c{
+    margin-left: 145px;
+}
+.crumbs_nav{
+    margin-bottom: 20px;
+}
+.crumbs_nav a{
+    color: #2b89e0;
+}
+.crumbs_nav .arr{
+    margin: 0 8px;
+}
+
+
+.print_module {
+    padding: 20px;
+    background: #fff;
+}
+.print_module .titlebox{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e6e6e6;
+    line-height: 20px;
+}
+.print_module .titlebox .print_btn{
+    color: #f60;
+}
+.print_top{
+    padding: 20px 20px 0 50px;
+}
+.chart_box{
+    margin-bottom: 20px;
+}
+
+.base_info_box{
+    width: 410px;
+    margin-right: 100px;
+}
+.base_info_box .top {
+    margin-bottom: 10px;
+}
+.base_info_box .top h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.base_info_box .top p {
+    color: #999;
+}
+
+.set_price_table_box {
+    background: #f0efeb;
+    padding: 10px;
+}
+
+.set_price {
+    border: none;
+}
+
+.set_price tr td {
+    height: 30px;
+    min-height:30px;
+    width: 50%;
+    text-align: center;
+    vertical-align: middle;
+    border-bottom: 2px solid #d4d4ca;
+    font-weight: bold;
+}
+.set_price tr td .op{
+    display: block;
+    height: 25px;
+    width: auto;
+    margin: 5px;
+}
+tr td {
+    min-height: 30px;
+}
+.set_price tr:first-child td {
+    border: none;
+    border-bottom: 2px solid #d4d4ca;
+    font-weight: normal;
+}
+
+.set_price tr td:first-child {
+    border-bottom: 2px solid #000;
+    border-left: none;
+    border-right: none;
+    color: #666;
+    font-weight: normal;
+}
+
+.set_price tr td:last-child {
+    border-right: none;
+}
+
+.set_price tr td:nth-child(2) {
+    border-left: none;
+}
+
+.set_price tr td:nth-child(3),
+.set_price tr td:last-child {
+    background: #edeae5;
+}
+
+.set_price tr:first-child td,
+.set_price tr:nth-child(4) td {
+    background: none;
+}
+
+.set_price tr:nth-child(4) td {
+    border-bottom: 2px solid #000;
+}
+
+.set_price tr:last-child td {
+    padding-top: 1px;
+    border: none;
+    background: none;
+}
+
+.set_price tr:last-child td .foot {
+    height: 100%;
+    text-align: left;
+    padding: 10px 0;
+}
+.set_price tr:last-child td .foot>div{
+    overflow: hidden;
+}
+.set_price tr:last-child td .foot>div:first-child{
+    margin-right: 10px;
+}
+.set_price tr:last-child td .foot>div p{
+    float: left;
+}
+
+
+
+.option_table_box{
+    margin-bottom: 20px;
+}
+.option_table tr td {
+    width: 12%;
+    min-height: 18px;
+    line-height: 18px;
+    font-size: 10px;
+    text-align: right;
+    padding-right: 10px;
+    border-bottom: 1px solid #c8cabd;
+    border-right: 1px solid #c8cabd;
+    padding: 5px;
+}
+.option_table tr td img{
+    width: 50px;
+    text-align: left;
+    margin: 5px 0;
+}
+.option_table tr td:first-child {
+    width: 16%;
+}
+.option_table tr td:first-child .t_img{
+    width: 82%;
+    margin: 0;
+}
+.option_table tr td:last-child {
+    width: 14%;
+    border-right: none;
+}
+
+.option_table thead tr td {
+    height: 25px;
+    line-height: 25px;
+    background: #a9a69d;
+    text-align: center;
+    padding: 0;
+    color: #000;
+}
+.option_table tr td.option_item{
+    text-align: center;
+}
+.option_table tr td.option_item div{
+    display: inline-block;
+}
+.option_table tr td.option_item span{
+    cursor: pointer;
+    color: #2b89e0;
+}
+.option_table tr td.option_item span.sep{
+    margin: 0 8px;
+}
+.option_table thead tr td .add_btn{
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    background: url('../images/icon_add.png') no-repeat;
+    background-size:18px 18px;
+    cursor: pointer;
+}
+.option_table tbody tr:nth-child(odd) td {
+    background: #f0efeb;
+}
+
+.option_table tbody tr:nth-child(even) td {
+    background: #edeae5;
+}
+
+.option_table thead tr td:first-child {
+    background: #fff;
+}
+
+.option_table tbody tr td:first-child,
+.option_table tbody tr td:nth-child(4) {
+    background: #fff;
+}
+
+.option_table tbody tr:last-child td {
+    border-bottom: 2px solid #a9a69d;
+}
+
+.option_table tfoot tr td {
+    border-bottom: 2px solid #a9a69d;
+}
+.option_table tfoot tr td:first-child{
+    border-right: none;
+}
+.option_table tfoot tr td:last-child {
+    background: #a9a69d;
+}
+.total.bule{
+    color: #3f95e0;
+    font-weight: bold;
+}
+.total.green{
+    color: #83ac2c;
+    font-weight: bold;
+}
+.total.sl{
+    color: #0c3861;
+    font-weight: bold;
+}
+.share{
+    margin-top: .2px;
+    width: 2.5px;
+    position: absolute;
+    right: 2.2px;
+}
+
+.print{
+    margin-top: .1px;
+    width: 3px;
+    position: absolute;
+    right: 6.8px;
+}
+
+/*打印弹框 css*/
+.msgbox{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9999;
+}
+.msgbox .mask{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+}
+.msgbox .mascontent{
+    position:absolute;
+    top: 100px;
+    left: 10%;
+    width:700px;
+    background: #fff;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.print_msgbox{
+    display: none;
+}
+.print_msg .titlebox{
+    height: 40px;
+    line-height: 40px;
+    background: #f2f2f2;
+    padding: 0 20px;
+}
+.print_msg .titlebox .add_mail{
+    padding: 5px 10px;
+    background: #f60;
+    color: #fff;
+    margin-left: 15px;
+    border: none;
+    border-radius: 4px;
+    margin-top: 6px;
+}
+.print_msg .titlebox .right p{
+    text-align: center;
+    font-size: 14px;
+}
+.print_msg .titlebox>div{
+    width: 50%;
+}
+.print_msg .mail_list li{
+    line-height: 30px;
+    border-bottom: 1px solid #e6e6e6;
+    background: #fff;
+    padding:5px 10px;
+}
+.print_msg .mail_list li.new_item input{
+    height: 30px;
+    width: 200px;
+    padding: 0 10px;
+    border-radius: 4px;
+    border: 1px solid #e6e6e6;
+}
+.print_msg .mail_list li.new_item .sure_btn{
+    background: #f60;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+}
+.print_msg .mail_list li:last-child{
+    border: none;
+}
+.print_msg .mail_list li>div{
+    width: 50%;
+}
+.print_msg .mail_list li>div span{
+    color: #2b89e0;
+    cursor: pointer;
+}
+.print_msg .mail_list li>div span.sep{
+    margin: 0 10px;
+}
+.print_msg .mail_list li>div:last-child{
+    text-align: center;
+}
+.print_msg .mail_list li>div:last-child>div{
+    display: inline-block;
+}
+/*新增弹框 css*/
+.add_msgbox{
+    display: none;
+}
+.add_msg{
+    padding:30px 15px 15px 15px;
+}
+.add_msg .imgbox{
+    width: 250px;
+    height: 250px;
+    border: 1px solid #e6e6e6;
+    margin-right: 15px;
+}
+.add_msg .imgbox img{
+    display: block;
+    width: 150px;
+    height:150px;
+    margin: auto auto;
+    margin-top: 50px;
+}
+.add_option_list li{
+    margin-bottom:10px;
+}
+.add_option_list li label{
+    font-size: 14px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.add_option_list li input{
+    height: 30px;
+    width: 280px;
+    padding: 0 10px;
+    border: 1px solid #e6e6e6;
+    border-radius: 4px;
+}
+.add_option_list li.name input{
+    width: 200px;
+    margin-right: 10px;
+    padding: 0 10px;
+}
+.add_option_list li.name select{
+    border: 1px solid #e6e6e6;
+    color: #666;
+    height: 30px;
+    width: 70px;
+    border-radius: 4px;
+}
+.add_option_list li:last-child .sure_btn{
+    background: #f60;
+    color: #fff;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 4px;
+    margin-left: 150px;
+}
+.add_msg .close{
+    position:absolute;
+    top:20px;
+    right: 20px;
+    width: 18px;
+    height: 18px;
+    background: url('../images/icon_close.png') no-repeat;
+    background-size:18px 18px;
+    cursor: pointer;
+}
+/*编辑弹框 css*/
+.edit_msgbox{
+    display: none;
+}
+.edit_msg{
+    padding:30px 15px 15px 15px;
+}
+.edit_msg .imgbox{
+    width: 150px;
+    height: 150px;
+    border: 1px solid #e6e6e6;
+    margin-right: 15px;
+}
+.edit_msg .imgbox img{
+    display: block;
+    width: 150px;
+    height:150px;
+    margin: auto auto;
+}
+.edit_msg .close{
+    position:absolute;
+    top:20px;
+    right: 20px;
+    width: 18px;
+    height: 18px;
+    background: url('../images/icon_close.png') no-repeat;
+    background-size:18px 18px;
+    cursor: pointer;
+}
+.imgmsgbox .imgbox{
+    position: absolute;
+    top: 100px;
+    width: 500px;
+    height: auto;
+}
+.imgmsgbox .imgbox img{
+    display: block;
+    width: 100%;
+}

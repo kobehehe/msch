@@ -1,0 +1,57 @@
+/*公共头*/
+
+.toolbar {
+    height: 4.4rem;
+    line-height: 4.4rem;   
+}
+.toolbar.rel{
+	position: relative;
+}
+.toolbar.fixed{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 99;
+}
+.toolbar h1{
+	line-height:4.4rem;
+}
+.toolbar .t_l,
+.toolbar .t_r {
+    width: 6rem;
+}
+
+.toolbar .t_l {
+    padding-left: 1.5rem;
+}
+
+.toolbar .t_l .back {
+    width: 1rem;
+    margin-right: .2rem;
+}
+
+.toolbar .t_r {
+    text-align: right;
+    padding-right: 1.5rem;
+}
+
+.toolbar .title h1 {
+    text-align: center;
+    font-size: 1.4rem;
+    margin: 0 auto;
+}
+.o_d_nav,
+.o_d_nav a {
+    background: #444549;
+    border: none;
+    color: #fff;
+}
+.o_d_nav h1{
+	color: #fff;
+}
+.toolbar .title.double{
+    line-height: 1.5rem;
+}
+.toolbar .title.double p{
+    font-size:1rem;
+}
